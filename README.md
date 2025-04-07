@@ -1,59 +1,87 @@
-<!-- GitHub Profile README.md -->
-
-<h1 align="center">Hi 👋, I'm Ankit Yadav</h1>
-<h3 align="center">Aspiring Data Analyst | Problem Solver | Curious Learner</h3>
+<h1 align="center">Hi there, I'm Ankit Yadav 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Analyst;Problem+Solver+🧠;Excel+SQL+Power+BI+Python+Lover;Always+Curious+Always+Learning!&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="280" />
 </p>
 
 ---
 
-🔍 **About Me**  
-🎓 B.Tech in Computer Science (2024) | Trainee Data Analyst @ Masai School  
-🧠 Passionate about data, patterns, and turning insights into action  
-🛠️ Skilled in Python, SQL, Power BI, Excel, Google Sheets, Web Scraping  
-📊 Focused on building data products that solve real-world problems  
+### 💡 About Me
+
+🎓 I'm a Data Analyst trainee at **Masai School**, passionate about transforming data into meaningful insights.  
+🔍 I dive deep into complex datasets, clean and analyze them, and visualize them for actionable business decisions.  
+🧠 I enjoy solving real-world problems using **Python**, **SQL**, **Power BI**, and **Excel**, and currently exploring **machine learning** and **web scraping**.  
 
 ---
 
-🚀 **My Portfolio Highlights**  
+### 🚀 My Tech Stack
 
-- 🧪 [**Wine Quality Prediction & Analysis**](#)  
-  *Analyzed chemical properties of wines to predict quality and uncover factors that matter for high-grade production.*  
-  ✅ Visualized with Power BI, used regression & classification models for predictions.  
-  💡 Helped simulate insights for funding decisions in a startup mock use case.
-
-- ✈️ [**Airline Price Prediction - Hackathon Project**](#)  
-  *Worked on real-time airfare trends to build a price prediction model.*  
-  📦 Scraped large data using Selenium, BeautifulSoup.  
-  🔍 Used feature engineering and model optimization techniques for high accuracy.
-
-- 📉 [**E-Commerce Sales Insights Dashboard**](#)  
-  *Created Excel & Power BI dashboards from structured data to showcase trends, sales dips, and growth strategies.*
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?logo=scikit-learn&logoColor=white)
 
 ---
 
-📚 **Skills & Tools**
+### 🧠 Featured Projects
 
-```yaml
-Languages: Python, SQL, DAX
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-Tools: Power BI, Excel, Google Sheets, MySQL, VS Code
-Other: Git, GitHub, Selenium, BeautifulSoup
-```
+📊 **1. Wine Quality Analyzer**  
+Predicts wine quality by analyzing its chemical composition. Built using Python, Pandas, and Seaborn. Helps winemakers & investors spot premium wines.  
+👉 _Key Features_: Data cleaning, correlation heatmaps, classification model, investor insights  
+📌 [View Project →](https://github.com/ankityadav-problemsolver/wine-quality-analyzer)
 
-🧠 Soft Skills:  
-Problem-Solving • Critical Thinking • Communication • Team Leadership • Time Management • Creativity
+✈️ **2. Airline Price Prediction**  
+Hackathon-based ML project for predicting dynamic airline ticket prices to optimize booking experience.  
+👉 _Key Features_: Data scraping, regression models, EDA, business decisions  
+📌 [View Project →](https://github.com/ankityadav-problemsolver/airline-price-predictor)
+
+💹 **3. Startup Investment Insights**  
+Analyzed Indian startups to understand investor trends, growth opportunities, and domains using Power BI dashboards.  
+📌 [View Project →](https://github.com/ankityadav-problemsolver/startup-investment-analysis)
 
 ---
 
-🌐 **Connect with me**  
-📧 [ankityadav@example.com](mailto:ankityadav@example.com)  
-🔗 [LinkedIn](https://linkedin.com/in/ankityadav-problemsolver) | [Portfolio Website](#)
+### 📈 GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankityadav-problemsolver&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ankityadav-problemsolver&theme=dark&hide_border=true" height="150" />
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=ankityadav-problemsolver&theme=onedark&row=1&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+### 🎯 Soft Skills in Action
+
+✔️ **Problem Solver**: Turn raw data into strategic decisions  
+🎨 **Creative Thinker**: Built insightful dashboards and visual storytelling  
+📣 **Great Communicator**: Convert data into business language  
+🤝 **Team Leader**: Led project initiatives during Masai capstone projects
+
+---
+
+### 🌐 Portfolio & Connect with Me
+
+📌 **Portfolio**: [ankityadav.vercel.app](https://ankityadav.vercel.app)  
+💼 **LinkedIn**: [linkedin.com/in/ankit-yadav1](https://linkedin.com/in/ankit-yadav1)  
+📬 **Email**: ankityadav2003official@gmail.com  
+💻 **GitHub**: [@ankityadav-problemsolver](https://github.com/ankityadav-problemsolver)
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Driven+by+Curiosity;Lover+of+Clean+Data;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
 </p>
+
+> _“Data is the new oil, but insight is the spark that ignites innovation.”_
+
