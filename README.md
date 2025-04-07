@@ -37,16 +37,16 @@
 📊 **1. Wine Quality Analyzer**  
 Predicts wine quality by analyzing its chemical composition. Built using Python, Pandas, and Seaborn. Helps winemakers & investors spot premium wines.  
 👉 _Key Features_: Data cleaning, correlation heatmaps, classification model, investor insights  
-📌 [View Project →](https://github.com/ankityadav-problemsolver/wine-quality-analyzer)
+📌 [View Project →](https://github.com/ankityadav-problemsolver/B43_DA_041_NoSQL_Ninjas)
 
 ✈️ **2. Airline Price Prediction**  
 Hackathon-based ML project for predicting dynamic airline ticket prices to optimize booking experience.  
 👉 _Key Features_: Data scraping, regression models, EDA, business decisions  
-📌 [View Project →](https://github.com/ankityadav-problemsolver/airline-price-predictor)
+📌 [View Project →](https://github.com/ankityadav-problemsolver/Airline-Profit-Prediction-Hackathon)
 
 💹 **3. Startup Investment Insights**  
 Analyzed Indian startups to understand investor trends, growth opportunities, and domains using Power BI dashboards.  
-📌 [View Project →](https://github.com/ankityadav-problemsolver/startup-investment-analysis)
+📌 [View Project →](https://github.com/ankityadav-problemsolver/B42_DA_005_Quantum-Queries)
 
 ---
 
@@ -72,9 +72,9 @@ Analyzed Indian startups to understand investor trends, growth opportunities, an
 
 ### 🌐 Portfolio & Connect with Me
 
-📌 **Portfolio**: [ankityadav.vercel.app](https://ankityadav.vercel.app)  
-💼 **LinkedIn**: [linkedin.com/in/ankit-yadav1](https://linkedin.com/in/ankit-yadav1)  
-📬 **Email**: ankityadav2003official@gmail.com  
+📌 **Kaggle**: [Kaggle](https://www.kaggle.com/ankitdatasolver)  
+💼 **LinkedIn**: [linkedin.com/in/ankityadav-datasolver](https://www.linkedin.com/in/ankityadav-datasolver/)  
+📬 **Email**: ankitofficial151@gmail.com  
 💻 **GitHub**: [@ankityadav-problemsolver](https://github.com/ankityadav-problemsolver)
 
 ---
@@ -84,4 +84,7 @@ Analyzed Indian startups to understand investor trends, growth opportunities, an
 </p>
 
 > _“Data is the new oil, but insight is the spark that ignites innovation.”_
+> <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Driven+by+Curiosity;Lover+of+Clean+Data;Always+Learning+%F0%9F%9A%80" />
+</p>
 
