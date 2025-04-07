@@ -1,11 +1,13 @@
-<h1 align="center">Hi there, I'm Ankit Yadav 👋</h1>
 
+![cdr](https://github.com/user-attachments/assets/54b5169a-12dd-4680-a3a0-02c8a4023053)
+
+<h1 align="center">Hi there, I'm Ankit Yadav 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Analyst;Problem+Solver+🧠;Excel+SQL+Power+BI+Python+Lover;Always+Curious+Always+Learning!&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" />
 </p>
 
 ---
