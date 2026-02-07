@@ -75,7 +75,7 @@ Analyzed Indian startups to understand investor trends, growth opportunities, an
 ### 🌐 Portfolio & Connect with Me
 
 📌 **Kaggle**: [Kaggle](https://www.kaggle.com/ankitdatasolver)  
-💼 **LinkedIn**: [linkedin.com/in/ankityadav-datasolver](https://www.linkedin.com/in/ankityadav-datasolver/)  
+💼 **LinkedIn**: [linkedin.com/in/ankityadav-datasolver](https://www.linkedin.com/in/ay-ankit/)  
 📬 **Email**: ankitofficial151@gmail.com  
 💻 **GitHub**: [@ankityadav-problemsolver](https://github.com/ankityadav-problemsolver)
 
